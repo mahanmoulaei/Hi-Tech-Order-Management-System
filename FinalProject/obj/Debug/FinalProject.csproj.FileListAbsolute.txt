@@ -1,0 +1,16 @@
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.GUI.MainForm.resources
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\Visual Studio Workplace\repos\FinalProject\FinalProject\obj\Debug\FinalProject.GUI.AboutForm.resources

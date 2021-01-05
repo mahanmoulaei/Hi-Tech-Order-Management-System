@@ -1,0 +1,23 @@
+#####################
+###  MIS Manager  ###
+#####################
+User ID : 111
+Password : hebr
+
+#######################
+###  Sales Manager  ###
+#######################
+User ID : 222
+Password : thmo
+
+##############################
+###  Inventory Controller  ###
+##############################
+User ID : 333
+Password : pewa
+
+#####################
+###  Order Clerk  ###
+#####################
+User ID : 444
+Password : mabr
